@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Treygan Russell]({{github.com/treyganrussell}}/assets/TreyganRussell.jpg){:width="150"}
+![Treygan Russell]({{site.baseurl}}/assets/TreyganRussell."C:\Users\treyg\Documents\GitHub\Rizzo\assets\TreyganRussell.jpg"jpg){:width="150"}
 
 **Treygan Russell Biography**
 
