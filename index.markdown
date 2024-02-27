@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Treygan Russell]({{site.baseurl}}/assets/Treygan Russell.jpg){:width="150"}
+![Treygan Russell]({{site.baseurl}}/assets/TreyganRussell.jpg){:width="150"}
 
 **Treygan Russell Biography**
 
