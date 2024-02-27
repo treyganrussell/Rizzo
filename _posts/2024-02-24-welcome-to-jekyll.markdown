@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "A Post of Some Books I Like"
 date:   2024-02-24 15:25:46 -0600
 categories: jekyll update
 ---
