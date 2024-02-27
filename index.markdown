@@ -6,7 +6,7 @@ layout: home
 ---
 ![Treygan Russell]({{site.baseurl}}/assets/TreyganRussell.jpg){:width="150"}
 
-#bold#****Treygan Russell Biography****
+****Treygan Russell Biography****
 
 
 -History Graduate Student at UNO.
