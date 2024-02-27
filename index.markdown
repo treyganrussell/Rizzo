@@ -16,3 +16,6 @@ layout: home
 
 
 -My plan is to graduate from UNO in December of this year. My final project is in the initial stages and concerns comparative media reactions to Mexican immigrants to Omaha in the 20th century. 
+
+
+-I currently do not have any published works myself. However, published works that I am currently enjoying include: _Line in the Sand_, by Rachel Saint John and _Bad Mexicans_, by Kelly Lytle Hernandez.
