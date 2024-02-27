@@ -22,8 +22,8 @@ title: Treygan's Website
 email: treyganrussell0626@gmail.com
 description: >
   Treygan is a graduate student who likes studying immigration history. 
-baseurl: "/Rizzo" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Rizzo/" # the subpath of your site, e.g. /blog
+url: "treyganrussell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  treyganrussell
 
