@@ -2,7 +2,7 @@
 layout: post
 title:  Some Books From Grad School
 date:   2024-03-05 15:25:46 -0600
-categories: 
+categories: Books
 ---
 <<<<<<< HEAD
 
