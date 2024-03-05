@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  Some Books I Like
-date:   2024-02-24 15:25:46 -0600
-categories: Books
 ---
+
+# Welcome 
+**Here are Some Books I Enjoy**
+
 
 --Line in the Sand by Rachel St. John
 
