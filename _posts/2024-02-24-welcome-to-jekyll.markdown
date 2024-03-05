@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Some Books I Enjoy!"
 title:  #"Some Books I Enjoy!"
 date:   2024-02-24 15:25:46 -0600
 categories: Books
